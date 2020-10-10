@@ -5,4 +5,4 @@ La idea de este algoritmo consiste en ir explorando el camino mas corto que part
 
 **Grafo utilizado**
 
-![Imagen Grafo](https://github.com/Jesus-Lares/Algoritmo-Dijkstra-Python/blob/master/algoritmoDijkstra.py)
+![Imagen Grafo](https://github.com/Jesus-Lares/Algoritmo-Dijkstra-Python/blob/master/algoritmoDijkstra.png)
